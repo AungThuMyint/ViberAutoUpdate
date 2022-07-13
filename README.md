@@ -1,5 +1,5 @@
 # ViberAutoUpdate
-Viber Auto Update [Coder : MR47M]
+Viber Auto Update [Save Logs, Schedule]
 
 ### Updating
 <img src=https://raw.githubusercontent.com/AungThuMyint/ViberAutoUpdate/main/03.png>
